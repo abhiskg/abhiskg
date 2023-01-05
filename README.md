@@ -35,25 +35,28 @@
         <td>
             <img
                 width="5000"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiskg&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
-                 alt="abhiskg"
-            />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img
-                width="5000"
                 src="http://github-readme-streak-stats.herokuapp.com?user=abhiskg&theme=tokyonight&hide_border=true"
                  alt="abhiskg"
             />
         </td>
+    </tr>
+    </table>
+    <table>
+    <tr>
         <td>
+             <img
+                width="5000"
+                  height="220"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiskg&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
+                 alt="abhiskg"
+            />
+        </td>
+<!--         <td>
             <img
                 width="5000"
                 src="https://activity-graph.herokuapp.com/graph?username=abhiskg&theme=tokyonight&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
                  alt="abhiskg"
             />
-        </td>
+        </td> -->
     </tr>
 </table>
