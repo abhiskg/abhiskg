@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiskg&label=Profile%20views&color=0e75b6&style=flat" alt="abhiskg" /> </p>
 
-- 🌏 Portfolio Website: **https://portfolio-abhiskg.vercel.app/**
+- 🌏 Portfolio Website: **https://abhishek-sen-gupta-portfolio.vercel.app/**
 - 📫 Email: **abhiskg20@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -46,7 +46,7 @@
         <td>
              <img
                 width="5000"
-                  height="220"
+                  height="200"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiskg&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
                  alt="abhiskg"
             />
