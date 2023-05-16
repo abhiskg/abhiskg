@@ -28,7 +28,7 @@
         <td>
             <img
                  width="5000"
-                src="https://github-readme-stats.vercel.app/api?username=abhiskg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiskg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
                  alt="abhiskg"
             />
         </td>
@@ -47,7 +47,7 @@
              <img
                 width="5000"
                   height="200"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiskg&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
+                src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhiskg&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
                  alt="abhiskg"
             />
         </td>
